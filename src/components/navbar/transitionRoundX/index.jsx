@@ -1,22 +1,22 @@
 import React, { useState } from "react";
-import { Wrap } from "./styles"
+import { Wrap } from "./styles";
 
 const TransitionRoundX = () => {
-  const [active, setActive] = useState('');
+  const [active, setActive] = useState("");
 
   const handleClick = () => {
-    if(active === '') {
-      setActive('open')
+    if (active === "") {
+      setActive("open");
     } else {
-      setActive('')
+      setActive("");
     }
-  }
+  };
 
   return (
     <Wrap onClick={handleClick}>
-        <div className={active}></div>
+      <div className={active}></div>
     </Wrap>
   );
-}
+};
 
-export default TransitionRoundX
+export default TransitionRoundX;
