@@ -10,7 +10,7 @@ a easy way to access animations with less bureaucracy
 
 ## on doing
 
-Close buttons
+- mobile navbar
 ## TO DO
 
 Add storybook
