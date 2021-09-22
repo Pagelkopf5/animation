@@ -1,13 +1,14 @@
-# Getting Started with Create React App
+# Animation
 
 My first collection of animations
 
-## Goal
+## goal
 
-create a npm packet of animations
+create a npm packet of animations - or maybe a collection of animation????
+a easy way to access animations with less bureaucracy
 
 
-## On doing
+## on doing
 
 Close buttons
 ## TO DO
